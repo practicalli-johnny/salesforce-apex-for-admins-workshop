@@ -54,11 +54,11 @@ blockquote {
 }
 
 .right-nav ol {
-    margin: 10px 10px 0 40px;
+    margin: 4px 10px 12px 40px;
 }
 
 .right-nav ol > li {
-    padding: 4px 0;
+    padding: 0 0;
 }
 
 .list-group-item {
