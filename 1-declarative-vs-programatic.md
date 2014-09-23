@@ -15,6 +15,6 @@ Here is a high level illustration of what we mean when we say Declarative vs Pro
 <div class="row" style="margin-top:40px;">
 <div class="col-sm-12">
 <a href="0-creating-a-developer-edition-account.html" class="btn btn-default"><i class="glyphicon glyphicon-chevron-left"></i> Previous</a>
-<a href="1.1-declarative-logic.html.html" class="btn btn-default pull-right">Next <i class="glyphicon glyphicon-chevron-right"></i></a>
+<a href="1.1-declarative-logic.html" class="btn btn-default pull-right">Next <i class="glyphicon glyphicon-chevron-right"></i></a>
 </div>
 </div>
