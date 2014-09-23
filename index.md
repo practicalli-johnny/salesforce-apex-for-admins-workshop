@@ -39,6 +39,6 @@ The following browsers are supported when working with the Developer Console:
 
 <div class="row" style="margin-top:40px;">
 <div class="col-sm-12">
-<a href="00-creating-a-developer-edition-account.html" class="btn btn-default pull-right">Next <i class="glyphicon glyphicon-chevron-right"></i></a>
+<a href="0-creating-a-developer-edition-account.html" class="btn btn-default pull-right">Next <i class="glyphicon glyphicon-chevron-right"></i></a>
 </div>
 </div>
