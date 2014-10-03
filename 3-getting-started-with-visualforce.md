@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Module 1&#58; Getting started with Visualforce
+title: Module 3&#58; Getting started with Visualforce
 ---
 
 [Visualforce](https://developer.salesforce.com/page/Visualforce:_An_Overview) is a key component of Force.com. With Visualforce, companies and their developers can create any kind of user experience and deliver it entirely on demand via the Web, without software.
