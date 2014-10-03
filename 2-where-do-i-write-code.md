@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Module 1&#58; Where do I write code ?
+title: Module 2&#58; Where do I write code ?
 ---
 
 There are a number of ways to write your code in salesforce. For today's purposes, we will be focusing on a few specific areas to write code that are the most accessible to beginning developers. 
