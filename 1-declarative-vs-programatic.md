@@ -3,7 +3,7 @@ layout: module
 title: Module 1&#58; Declarative vs Programatic
 ---
 
-The goal for this workshop is to enter the world of coding, and expand on a salesforce environment by reading a modifying a Visualforce page and an Apex trigger. Before we can get started with the programmatic features of the salesforce1 platform, we will review when we should be evaluating whether to use programmatic or declarative functionality. 
+The goal for this workshop is to enter the world of coding, and expand on a salesforce environment by reading and modifying a Visualforce page and an Apex trigger. Before we can get started with the programmatic features of the salesforce1 platform, we will review when we should be evaluating whether to use programmatic or declarative functionality. 
 
 Having a solid foundation of the declarative options is important to becoming an admin who codes. Whenever we have a business problem to solve, knowing the point-and-click options will help you build an org that is easier to maintain, update, and review. Once you have exhausted the limits of the point-and-click tools, then you may need to explore the world of code in salesforce.
 
